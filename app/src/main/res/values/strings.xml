@@ -20,4 +20,10 @@
     <string name="display">Display</string>
     <string name="size">Size</string>
     <string name="battery">Battery</string>
+    <string name="buy">buy</string>
+    <string name="my_name">my_name</string>
+    <string name="seller">seller</string>
+    <string name="specification">specification</string>
+    <string name="dummy_value">dummy_value</string>
+    <string name="dummy_photos">dummy_photos</string>
 </resources>
